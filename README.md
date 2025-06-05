@@ -43,7 +43,7 @@ This repository supports the examples in the article:
 
 **👉 [Java & Big O: Part 1 — From Theory to Milliseconds ⏱️](https://www.linkedin.com/pulse/java-big-o-from-theory-milliseconds-max-benin-stawf)**
 
-**👉 [Java & Big O: Part 2 — The Painful Complexities You Should Avoid 😰](https://www.linkedin.com/pulse/java-big-o-from-theory-milliseconds-max-benin-stawf)**
+**👉 [Java & Big O: Part 2 — The Painful Complexities You Should Avoid 😰](https://www.linkedin.com/pulse/java-big-o-part-2-painful-complexities-you-should-avoid-max-benin-twtyf)**
 
 
 ---
