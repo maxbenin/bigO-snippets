@@ -1,4 +1,3 @@
-````markdown
 # 📊 bigO-snippets
 
 **Java code snippets to visualize and understand Big O complexities in practice.**
@@ -43,6 +42,7 @@ mvn test
 This repository supports the examples in the article:
 
 **👉 [Java & Big O: Part 1 — From Theory to Milliseconds ⏱️](https://www.linkedin.com/pulse/java-big-o-from-theory-milliseconds-max-benin-stawf)**
+
 **👉 [Java & Big O: Part 2 — The Painful Complexities You Should Avoid 😰](https://www.linkedin.com/pulse/java-big-o-from-theory-milliseconds-max-benin-stawf)**
 
 
